@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) ve [Patika.dev](https://patika.dev) Front-end Eğitimi kapsamında açtığım ilk repodur. İçerisinde bir adet **README.md** ve bir adet **index.html** dosyası bulunmaktadır. 
 
-<img alt="repoImg" src="https://ibb.co/jwk44xm"/>
+<img alt="repoImg" src="https://ibb.co/jwk44xm" />
 
 ## Installation
 
